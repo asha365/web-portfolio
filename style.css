@@ -1,0 +1,122 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+    
+    
+}
+
+.top-banner{
+    background-image: url("images/3.png");
+    height: 500px;   
+}
+
+.orange-highlight{
+    color: lightcoral;
+}
+.half-width1{
+    padding-left: 5px;
+    width: 60%;
+    float: left;
+    display: block;
+    background-image: url("images/3.png");
+}
+
+.half-width1 h1{
+    font-size: 30px;
+}
+
+.half-width2{
+    width: 38%;
+    
+    
+}
+
+.half-width2 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    margin: 30px 0px 0px 30px;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-color: rebeccapurple;
+    padding: 5px 10px 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-image: linear-gradient( 45deg, rgb(122, 18, 69), orange);
+    color: white;
+    box-shadow: 0 9px #999;
+    
+}
+/*.link-button a :hover{
+    color: seagreen;
+    background-color: #be245f;
+}*/
+
+.dream_area{
+    background-image: url("images/3.png");
+    background-position: right;
+    height: 500px;
+}
+
+
+.half-width1 img{
+    height: 300px;
+    width: 300px;
+   
+}
+
+.experience_area{
+    height: 350px;
+    background-image: url("images/3.png");
+    
+   
+}
+
+.Half-width3{
+    width: 48%;
+    border-radius: 10px;
+    
+}
+
+.Half-width4{
+   width: 47.9%;
+   border-radius: 10px;
+}
+
+.Experience{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 1.3%;
+}
+
+.single_experience{
+    box-shadow: 4px 4px 0px gray;
+    background-color: white;
+}
+
+.single_experience{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 15px;
+}
+ 
+#full_stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(66, 53, 53),rgb(218, 170, 170));
+    border-image-slice: 1;
+    border-radius: 10px;
+    padding: 2px;
+    
+    
+}
+
+.copy_right p{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+
+}
